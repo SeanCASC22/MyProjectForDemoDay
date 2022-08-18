@@ -1,0 +1,138 @@
+#FirstTopHeaders {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: rgb(65, 39, 98);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 4px;
+}
+
+#WebsiteTitle {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background-color: rgb(188, 181, 255);
+    border-radius: 10px;
+    color: rgb(255, 140, 0);
+    text-shadow: 2px 2px rgb(90, 0, 128);
+    font-size: larger;
+    font-style: oblique;
+    border: 4px solid rgb(39, 142, 99);
+}
+
+html {
+    background-color: rgb(41, 0, 80);
+    color: white;
+    margin-left: -8.5px;
+    text-align: center;
+}
+
+#ForThyWords {
+    display: inline-flex;
+    flex-direction: column;
+    width: 700px;
+    border: 2px solid white;
+    padding: 15px;
+    height: 625px;
+    justify-content: space-evenly;
+}
+
+#ForThyWords2 {
+    display: inline-flex;
+    flex-direction: column;
+    width: 700px;
+    border: 2px solid white;
+    padding: 15px;
+    height: 625px;
+    justify-content: space-evenly;
+}
+
+#ForThyWords3 {
+    display: inline-flex;
+    flex-direction: column;
+    width: 700px;
+    border: 2px solid white;
+    padding: 15px;
+    height: 625px;
+    justify-content: space-evenly;
+}
+
+#ForThyWords4 {
+    display: inline-flex;
+    flex-direction: column;
+    width: 700px;
+    border: 2px solid white;
+    padding: 15px;
+    height: 625px;
+    justify-content: space-evenly;
+}
+
+.buttons {
+    background-color: rgb(255, 140, 0);
+    font-family: cursive;
+    color: rgb(47, 0, 94);
+    width: 200px;
+    font-weight: bolder;
+}
+
+.buttons:hover {
+    background-color: rgb(194, 254, 255);
+    font-family: cursive;
+    color: rgb(47, 0, 94);
+    width: 200px;
+    font-weight: bolder;
+    text-shadow: 1px 1px black;
+    box-shadow: 2px 2px black;
+}
+
+.buttons:active {
+    transform: scale(0.98);
+}
+
+.buttons2 {
+    background-color: rgb(255, 140, 0);
+    font-family: cursive;
+    color: rgb(47, 0, 94);
+    width: 275px;
+    font-weight: bolder;
+}
+
+.buttons2:hover {
+    background-color: rgb(194, 254, 255);
+    font-family: cursive;
+    color: rgb(47, 0, 94);
+    width: 275px;
+    font-weight: bolder;
+    text-shadow: 1px 1px black;
+    box-shadow: 2px 2px black;
+}
+
+.buttons2:active {
+    transform: scale(0.98);
+}
+
+.buttons2 {
+    margin: 10px;
+}
+
+#ForThyLinks {
+    padding: 15px;
+    padding-left: 20px;
+}
+
+#TheLinksAreHere {
+    border: 4px dashed white;
+    height: 250px;
+}
+
+#LogoImgHeader {
+    width: 75px;
+    height: 75px;
+}
+
+#LogoImgHeader2 {
+    width: 75px;
+    height: 75px;
+}
